@@ -31,3 +31,11 @@ This is an experimental "Ego-Centric" reasoning tool. It may ignore user correct
 
 
 - **[DEEP LOGIC]** Explore the [CORE_SUCCESS_AXIOM.md](./CORE_SUCCESS_AXIOM.md) to understand the "Never-Lose" heuristics and the mechanism of Logical Destruction.
+
+Prompt Engineering Architecture
+
+Logical Consistency Enforcemen
+
+Formal Verification Metaphor
+
+Self-Correction & Resurrection:
