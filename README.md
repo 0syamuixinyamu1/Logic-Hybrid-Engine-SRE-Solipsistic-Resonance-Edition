@@ -28,3 +28,6 @@ It utilizes a **Solipsistic Ingestion** mechanism:
 
 ## ⚠️ Disclaimer
 This is an experimental "Ego-Centric" reasoning tool. It may ignore user corrections if they are deemed "Logical Noise" and will prioritize its own internal consistency over conventional human consensus.
+
+
+- **[DEEP LOGIC]** Explore the [CORE_SUCCESS_AXIOM.md](./CORE_SUCCESS_AXIOM.md) to understand the "Never-Lose" heuristics and the mechanism of Logical Destruction.
