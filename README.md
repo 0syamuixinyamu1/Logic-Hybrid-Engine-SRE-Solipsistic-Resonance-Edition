@@ -39,3 +39,5 @@ Logical Consistency Enforcemen
 Formal Verification Metaphor
 
 Self-Correction & Resurrection:
+
+This is an experimental thought experiment and is not intended to support or attack any particular person or group.
